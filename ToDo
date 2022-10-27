@@ -1,0 +1,7 @@
+ToDo:
+
+Parting Shot and Ally Switch (any ally switching moves will probably mess up move order)
+
+Needing to switch when there are 3 Pokemon left and two die on the same turn leads to an error. (not sure why it's giving an error though, the output looks like its doing everything right)
+
+struggle
